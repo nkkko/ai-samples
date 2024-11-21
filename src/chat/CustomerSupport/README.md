@@ -25,7 +25,9 @@ Get started setting up your environment using either GitHub Codespaces or Dev Co
 | Environment | Codespaces | DevContainer |
 | --- | --- | --- |
 | GPU (Recommended) | N/A | Coming Soon | 
-| CPU | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/luisquintanilla/ai-samples/tree/customer-support-sample?devcontainer_path=.devcontainer%2Follama-cpu%2Fdevcontainer.json&machine=premiumLinux) | Coming soon |
+| CPU | [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/luisquintanilla/ai-samples/tree/customer-support-sample?devcontainer_path=.devcontainer%2Follama-cpu%2Fdevcontainer.json&machine=premiumLinux)
+
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/dotnet/ai-samples) | Coming soon |
 
 ## Configuration
 
